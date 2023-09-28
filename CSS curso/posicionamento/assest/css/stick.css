@@ -1,0 +1,16 @@
+main{
+    height: 3000px;
+    width: 100%;
+}
+#principal, #second-div{
+    height: 950px;
+    background-color: aqua;
+}
+#image{
+    background: url(../img/fundo.jpg)
+    width: 
+    height: 250px;
+    position: sticky;
+    left: 50px;
+    top: 50px;
+}

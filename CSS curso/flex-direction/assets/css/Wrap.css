@@ -1,0 +1,27 @@
+.item{
+    flex: 1;
+    margin: 5px;
+    background-color: chocolate;
+    text-align: center;
+}
+.container{
+    max-width: 360px;
+    margin: 0 auto;
+    display: flex;
+    border: 1px solid aliceblue;
+}
+h1{
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-size: 500;
+}
+body{
+    font-family: monospace;
+    color: black;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.wrap_reverse{
+    flex-wrap: wrap-reverse;
+}
